@@ -1,6 +1,6 @@
 Part 1: Blackbox deep learning - Fast AI
 
-i) Image classification : Used fast AI library vision learner to perform image classification.
+i) Image classification : Used fast AI library cnn and vision learner to perform image classification - tried on 3 datasets.
 Colabs:
 
 Classification on Dataset obtained Using duckduckgo api -
