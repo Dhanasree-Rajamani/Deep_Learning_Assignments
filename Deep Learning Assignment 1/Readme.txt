@@ -13,7 +13,7 @@ Filename : FastAI_classification.ipynb
 
 Classification of Dog or cat -
 https://colab.research.google.com/drive/1-AxjD6nSc0CmMmB4EPtVTmYtolSqelCU?usp=sharing
-Filename : FastAI_classification.ipynb
+Filename : DeepLearning_FastAI_classification.ipynb
 
 ii) Segmentation : used unet_learner model to perform segmentation, where the model we create can recognize every pixel of an image.
 
