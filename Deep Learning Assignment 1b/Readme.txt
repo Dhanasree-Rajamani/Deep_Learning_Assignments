@@ -3,4 +3,4 @@ As a group we have explored openAI, gpt and our colabs contain:
 - with Gradio UI
 - Fine-tuned models
 - Prompt engineering
-This has enanled us to build models which provide the best results in the application.   
+This has enabled us to build models which provide the best results in the application.   
