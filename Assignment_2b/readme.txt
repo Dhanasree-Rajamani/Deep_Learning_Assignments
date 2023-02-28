@@ -12,6 +12,8 @@ bilinear transformation
 attention
 tree qn
 
+Executable colabs below:
+
 pytorch colab: https://colab.research.google.com/drive/1kJFwxthmB_KQHUenGTOHIVFv_U03F4MZ?usp=sharing
 
 tensorflow colab: https://colab.research.google.com/drive/1hP4LKcu330rAVz8iwQ1Be2Xfh11jRQYQ?usp=sharing
