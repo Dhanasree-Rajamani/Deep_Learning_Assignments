@@ -14,7 +14,7 @@ Implemented the following using pytorch, tensorflow and numpy
 
 Contents of the colab:
 
-1) Experimenting Basics with eisum and Pytorch, Tensorflow and Numpy. Also Tried out some basic operations like permute, col sum, row sum and full sum apart from the operations above. 
+1) Experimenting Basics with einsum and Pytorch, Tensorflow and Numpy. Also Tried out some basic operations like permute, col sum, row sum and full sum apart from the operations above. 
  
 Executable colabs below:
 
