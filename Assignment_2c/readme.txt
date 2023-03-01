@@ -1,3 +1,5 @@
+Links for executable colabs below. 
+
 1) Dhanasree_DL_Assignment_2c_part1.ipynb
 
 This file has broadcasting, string tensors, sparse tensors, ragged tensors and named tensors in pytorch and tensorflow
