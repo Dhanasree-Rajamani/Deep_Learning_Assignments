@@ -1,4 +1,4 @@
-Links for executable colabs below. 
+Links for executable colabs below. I've added Comments on each of the operations performed within the colab.
 
 1) Dhanasree_DL_Assignment_2c_part1.ipynb
 
