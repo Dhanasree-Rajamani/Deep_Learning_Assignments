@@ -26,4 +26,15 @@ Colab : https://colab.research.google.com/drive/1q5yLw3I5wQAh2j6r1FkM5THr90cCE_V
 
 4) Part E, F and G : 
 
-5) Part H :
+5) Part H : These notebooks consist of : 
+
+   - 3 layer Neural network for non-linear regression from scratch using Jax 
+   - Developed neural network for 3d non linear cubic equation data and 
+   - Developed neural netowork for 2d quadratic non linear equation below
+   - Relu for non-linear activation function, implemented chain rule based gradient propagation
+   - used appropriate number of neurons and epochs
+
+Colab : https://colab.research.google.com/drive/1_gcM3VUfFXEKDKMtoN_UghxtrRpLjmjJ?usp=sharing
+        
+        https://colab.research.google.com/drive/1LSvvrstQulTF8aCwH7otsMS7rKH_bVNe?usp=sharing
+
