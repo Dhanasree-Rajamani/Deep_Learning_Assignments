@@ -22,11 +22,18 @@ Colab : https://colab.research.google.com/drive/1xF8UzuXIKUo16WOyXzfiwVd6XmLW3io
 
 Colab : https://colab.research.google.com/drive/1q5yLw3I5wQAh2j6r1FkM5THr90cCE_VT?usp=sharing
 
-3) (Part D) Pytorch Lightning:
+3) (Part D) Pytorch Lightning: This colab consists of:  
+
+  - Designing the model with Pytorch Lightning 
+  - This Neural network model consists of 4 layers : 1 input, 2 hidden and 1 output
+  - Used Relu and Softmax for non-linear activation function
+  - Used Adam optimizer for optimization
+
+Colab : https://colab.research.google.com/drive/1x4FdgLLdW5nhiRBHe0jSwGVkWJCeeyDw?usp=sharing
 
 4) Part E, F and G : 
 
-5) Part H : These notebooks consist of : 
+5) (Part H) These notebooks consist of : 
 
    - 3 layer Neural network for non-linear regression from scratch using Jax 
    - Developed neural network for 3d non linear cubic equation data and 
