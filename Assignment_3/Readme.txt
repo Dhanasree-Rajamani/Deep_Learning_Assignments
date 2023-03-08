@@ -54,17 +54,15 @@ The notebook consists of the following implemented using:
 
 Colab : https://colab.research.google.com/drive/1GLVzLcILE-kYI-PukO5F0Up8DqFEv4ju?usp=sharing
 
-5) (Part H) JAX : jax_neural_network.ipynb and jax_neural_network_3d.ipynb
+5) (Part H) JAX : jax_neural_network_dl.ipynb
 
-These notebooks consist of :
+This notebook consist of :
 
    - 3 layer Neural network for non-linear regression from scratch using Jax 
    - Developed neural network for 3d non linear cubic equation data and 
-   - Developed neural netowork for 2d quadratic non linear equation below
+   - Developed neural network for 2d quadratic non linear equation below
    - Relu for non-linear activation function, implemented chain rule based gradient propagation
    - used appropriate number of neurons and epochs
 
 Colab : https://colab.research.google.com/drive/1_gcM3VUfFXEKDKMtoN_UghxtrRpLjmjJ?usp=sharing
-        
-        https://colab.research.google.com/drive/1LSvvrstQulTF8aCwH7otsMS7rKH_bVNe?usp=sharing
 
