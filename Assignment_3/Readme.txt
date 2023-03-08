@@ -37,7 +37,7 @@ Colab : https://colab.research.google.com/drive/1x4FdgLLdW5nhiRBHe0jSwGVkWJCeeyD
 
 4) (Part E, F and G) Tensorflow: TensorFlow_NN.ipynb AND Neural_network_tensorflow.ipynb
 
-These notebooks consists of the following implemented using:
+The notebook consists of the following implemented using:
   
   - Tensorflow - built in layers functional API
   - Tensorflow from scratch low level API
@@ -50,9 +50,7 @@ These notebooks consists of the following implemented using:
     - used appropriate number of neurons and epochs
     - SGD and Adam optimizer for optimization
 
-Colab : https://colab.research.google.com/drive/12jCJ7-lCnap8gW1jUdc66kc3f-IC49aO?usp=sharing
-
-        https://colab.research.google.com/drive/1GLVzLcILE-kYI-PukO5F0Up8DqFEv4ju?usp=sharing
+Colab : https://colab.research.google.com/drive/1GLVzLcILE-kYI-PukO5F0Up8DqFEv4ju?usp=sharing
 
 5) (Part H) JAX : jax_neural_network.ipynb and jax_neural_network_3d.ipynb
 
