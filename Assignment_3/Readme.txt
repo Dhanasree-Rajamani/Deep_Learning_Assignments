@@ -37,7 +37,7 @@ This colab consists of:
 
 Colab : https://colab.research.google.com/drive/1x4FdgLLdW5nhiRBHe0jSwGVkWJCeeyDw?usp=sharing
 
-4) (Part E, F and G) Tensorflow: TensorFlow_NN.ipynb AND Neural_network_tensorflow.ipynb
+4) (Part E, F and G) Tensorflow: Neural_network_tensorflow.ipynb
 
 The notebook consists of the following implemented using:
   
