@@ -1,3 +1,5 @@
+All notebooks are executable.
+
 1) (Part A) Numpy_NN.ipynb
 
 This notebook consists of the following implemented using Numpy:
