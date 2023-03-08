@@ -1,4 +1,4 @@
-1) (Part A) Numpy_NN 
+1) (Part A) Numpy_NN.ipynb
 
 This notebook consists of the following implemented using Numpy:
 
@@ -10,7 +10,7 @@ This notebook consists of the following implemented using Numpy:
 
 Colab : https://colab.research.google.com/drive/1xF8UzuXIKUo16WOyXzfiwVd6XmLW3ioC?usp=sharing
 
-2) (Part B and Part C) Pytorch_NN
+2) (Part B and Part C) Pytorch_NN.ipynb
 
 This notebook consists of the following implemented using:
   
@@ -24,7 +24,9 @@ This notebook consists of the following implemented using:
 
 Colab : https://colab.research.google.com/drive/1q5yLw3I5wQAh2j6r1FkM5THr90cCE_VT?usp=sharing
 
-3) (Part D) Pytorch Lightning: This colab consists of:  
+3) (Part D) Pytorch Lightning: Pytorch_lightning.ipynb
+
+This colab consists of: 
 
   - Designing the model with Pytorch Lightning 
   - This Neural network model consists of 4 layers : 1 input, 2 hidden and 1 output
@@ -33,7 +35,9 @@ Colab : https://colab.research.google.com/drive/1q5yLw3I5wQAh2j6r1FkM5THr90cCE_V
 
 Colab : https://colab.research.google.com/drive/1x4FdgLLdW5nhiRBHe0jSwGVkWJCeeyDw?usp=sharing
 
-4) (Part E, F and G) : This colab consists of :  This notebook consists of the following implemented using:
+4) (Part E, F and G) Tensorflow: TensorFlow_NN.ipynb AND Neural_network_tensorflow.ipynb
+
+These notebooks consists of the following implemented using:
   
   - Tensorflow - built in layers functional API
   - Tensorflow from scratch low level API
@@ -50,7 +54,9 @@ Colab : https://colab.research.google.com/drive/12jCJ7-lCnap8gW1jUdc66kc3f-IC49a
 
         https://colab.research.google.com/drive/1GLVzLcILE-kYI-PukO5F0Up8DqFEv4ju?usp=sharing
 
-5) (Part H) These notebooks consist of : 
+5) (Part H) JAX : jax_neural_network.ipynb and jax_neural_network_3d.ipynb
+
+These notebooks consist of :
 
    - 3 layer Neural network for non-linear regression from scratch using Jax 
    - Developed neural network for 3d non linear cubic equation data and 
