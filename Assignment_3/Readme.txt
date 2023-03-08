@@ -10,7 +10,9 @@ This notebook consists of the following implemented using Numpy:
 
 Colab : https://colab.research.google.com/drive/1xF8UzuXIKUo16WOyXzfiwVd6XmLW3ioC?usp=sharing
 
-2) (Part B and Part C) This notebook consists of the following implemented using:
+2) (Part B and Part C) Pytorch_NN
+
+This notebook consists of the following implemented using:
   
   - Pytorch with builtin functionality
   - Pytorch without builtin functionality
@@ -31,7 +33,22 @@ Colab : https://colab.research.google.com/drive/1q5yLw3I5wQAh2j6r1FkM5THr90cCE_V
 
 Colab : https://colab.research.google.com/drive/1x4FdgLLdW5nhiRBHe0jSwGVkWJCeeyDw?usp=sharing
 
-4) Part E, F and G : 
+4) (Part E, F and G) : This colab consists of :  This notebook consists of the following implemented using:
+  
+  - Tensorflow - built in layers functional API
+  - Tensorflow from scratch low level API
+  - Tensorflow - high level API
+
+    - Using Einsum and Tensor
+    - 3 layer neural network 
+    - 2 and 3 variable based non linear equation(quadratic and cubic non linear equation)
+    - Relu for non-linear activation function, implemented chain rule based gradient propagation
+    - used appropriate number of neurons and epochs
+    - SGD and Adam optimizer for optimization
+
+Colab : https://colab.research.google.com/drive/12jCJ7-lCnap8gW1jUdc66kc3f-IC49aO?usp=sharing
+
+        https://colab.research.google.com/drive/1GLVzLcILE-kYI-PukO5F0Up8DqFEv4ju?usp=sharing
 
 5) (Part H) These notebooks consist of : 
 
