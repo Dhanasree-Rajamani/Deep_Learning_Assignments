@@ -35,6 +35,15 @@ Colab link : https://colab.research.google.com/drive/17UEaUe1uedmkT5L2lZqTkh67ea
 
 k) colabs for data augmentation and classification  for image, video, text, audio -
 
+In these colabs, I have used AugLY - a data augmentations library that supports 4 modalities(audio, video, image and text) - to augment data in model training.
+
+I have used my own audio, text, video. 
+Images(image I have obtained from tensorflow dataset). 
+Have done various data augmentations such as Adding noise to audio, augmentation and transformation in intensity and length of audio.
+For text, swapping gender in text and other augmentations, then evaluating performance.
+In video, trim video, add emoji in video, add noise, blur video etc. 
+For images, I have performed data augmentation such as flip image horizonatlly, vertically, grayscale an image,  saturate image, change brightness of image, center crop image, rotate image, change contrast and random transformations. 
+
 Colab names : image_data_aug.ipynb, text_data_aug.ipynb, video_data_aug.ipynb, Audio_Data_Aug.ipynb
 
 Colab links : 
@@ -48,6 +57,8 @@ Text : https://colab.research.google.com/drive/1PxLfl5lmDIrRn_oOxUMBrZJ0nk69vk1N
 Image : https://colab.research.google.com/drive/1NVkTSWDPeb7LU32IHYukBW5qvzz5SprG?usp=share_link
 
 l) Demonstrate fastai data augmentation capablities 
+
+In this colab, I have performed tasks such as normalization, mixup(data augmentation technique), progressive resizing approach and test time augmentation. Using Imagenette to train model from scratch
 
 Colab name :
 
