@@ -1,4 +1,5 @@
 Here's a documentation of what each colab above contains: 
+
 a to g)Colabs to illustrate various data augmentation and generalization techniques (with A/B tests)
 - l1 l2
 - dropout
@@ -21,12 +22,12 @@ i) using keras tuner
 
  
 
-j)_ use keras cv data augmentation https://keras.io/keras_cv/ in colabLinks to an external site.
+j)using keras cv data augmentation
 
 Colab name : Keras_cv_data_aug.ipynb
 Colab link : 
 
-k) write colabs for data augmentation and classification  for image, video, text, audio -
+k) colabs for data augmentation and classification  for image, video, text, audio -
 
 Colab names : image_data_aug.ipynb, text_data_aug.ipynb, video_data_aug.ipynb, Audio_Data_Aug.ipynb
 Colab links : 
