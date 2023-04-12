@@ -71,6 +71,6 @@ l) Demonstrate fastai data augmentation capablities
 
 In this colab, I have performed tasks such as normalization, mixup(data augmentation technique), progressive resizing approach and test time augmentation. Using Imagenette to train model from scratch
 
-Colab name :
+Colab name : fast_ai_data_aug.ipynb
 
 colab link : https://colab.research.google.com/drive/1IxiwcfFDfhTrniMFL8NiZ8UoNzXJ7NEf?usp=share_link
