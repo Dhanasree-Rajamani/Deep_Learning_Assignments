@@ -48,7 +48,7 @@ Colab link : https://colab.research.google.com/drive/17UEaUe1uedmkT5L2lZqTkh67ea
 
 k) colabs for data augmentation and classification  for image, video, text, audio -
 
-In these colabs, I have used AugLY - a data augmentations library that supports 4 modalities(audio, video, image and text) - to augment data in model training.
+In these colabs, I have used AugLY - a data augmentations library that supports 4 modalities(audio, video, image, text, timeseries) - to augment data in model training.
 
 I have used my own audio, text, video. 
 Images(image I have obtained from tensorflow dataset). 
@@ -56,14 +56,17 @@ Have done various data augmentations such as Adding noise to audio, augmentation
 For text, swapping gender in text and other augmentations, then evaluating performance.
 In video, trim video, add emoji in video, add noise, blur video etc. 
 For images, I have performed data augmentation such as flip image horizonatlly, vertically, grayscale an image,  saturate image, change brightness of image, center crop image, rotate image, change contrast and random transformations. 
+For timeseries data, tried various augemntation techniques such as scaling, jitters, rotation, magnitude and time warping.
 
-Colab names : image_data_aug.ipynb, text_data_aug.ipynb, video_data_aug.ipynb, Audio_Data_Aug.ipynb
+Colab names : image_data_aug.ipynb, text_data_aug.ipynb, video_data_aug.ipynb, Audio_Data_Aug.ipynb, Data_aug_time_series.ipynb
 
 Colab links : 
 
 Video : https://colab.research.google.com/drive/1_Ty-FKXkiR8wUk6M189uPspWci7JNIS_?usp=share_link
 
 Audio : https://colab.research.google.com/drive/1J0hVFWc3jnpjuXTVigUiu3u1YQHztam5?usp=share_link
+
+Timeseries : https://colab.research.google.com/drive/1H4elMPGp0__87SgKjc_VU3Otg3FtRdAK?usp=sharing
 
 Text : https://colab.research.google.com/drive/1PxLfl5lmDIrRn_oOxUMBrZJ0nk69vk1N?usp=share_link
 
