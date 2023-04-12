@@ -17,7 +17,9 @@ Have tried various initialization techniques, which are important as they can ha
 Colab name : Regularization.ipynb and Early_Stopping.ipynb
 
 Colab links : 
+
 https://colab.research.google.com/drive/1jybfxmiufO7w3JKJq5Lf1Ag6vT7mE4BM?usp=share_link
+
 https://colab.research.google.com/drive/118oD5uu0Y3gd_JucUgnmK_JqyArHjhg1?usp=share_link
 
 h) using callbacks and tensorboard 
