@@ -20,7 +20,8 @@ Colab link :
 
 i) using keras tuner
 
- 
+Colab name : Regularization.ipynb
+Colab link : 
 
 j)using keras cv data augmentation
 
