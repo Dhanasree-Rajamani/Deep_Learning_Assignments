@@ -23,4 +23,4 @@ colab : https://colab.research.google.com/drive/1Ry3Vi9ltsrzL0m2hGM2UltzciWaXRMS
 notebook : DL_SemanticKernel.ipynb
 
 h) Essay on best practices for prompt engineering in medium
-Medium article : 
+Medium article : https://medium.com/@dhanasree.rajamani/prompt-engineering-what-why-and-best-practices-bda895770c47
