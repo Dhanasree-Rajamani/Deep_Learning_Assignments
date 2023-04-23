@@ -14,6 +14,7 @@ demo : https://youtu.be/XAFCMTPd7rI
 e) OpenAI chat with excel 
 colab : https://colab.research.google.com/drive/19jpsaeDwUNoH9CwZqSnM8XMsAlr7BD62?usp=sharing
 demo : https://youtu.be/s_-do2bVjl8
+notebook : excel_chatgpt.ipynb
 
 f) Adobe Firefly demo : unable to get access
 
