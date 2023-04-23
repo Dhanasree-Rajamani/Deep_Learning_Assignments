@@ -19,6 +19,7 @@ f) Adobe Firefly demo : unable to get access
 
 g) Semantic kernel
 colab : https://colab.research.google.com/drive/1Ry3Vi9ltsrzL0m2hGM2UltzciWaXRMSO?usp=sharing
+notebook : DL_SemanticKernel.ipynb
 
 h) Essay on best practices for prompt engineering in medium
 Medium article : 
