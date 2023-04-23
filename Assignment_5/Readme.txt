@@ -1,5 +1,6 @@
 a) BabyAGI with langchain 
 colab : https://colab.research.google.com/drive/1QG0Xeh4ci6FseKvP42AjH_twHbIKHRpE?usp=sharing
+notebook : DL_5_BabyAGI_with_LangChain.ipynb
 
 b) AgentGPT
 demo : https://youtu.be/OdepMNI2MNA
