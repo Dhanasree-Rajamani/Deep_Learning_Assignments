@@ -1,3 +1,5 @@
+Colab link : https://colab.research.google.com/drive/1o_FdTPZ24skf2o2tA3l_-KrIlLBuH6kk?usp=sharing
+
 I have used tensorflow in the colab, and used Custom ML components for tasks such as Fashion MNIST.
 
 Created and used the following custom components :
