@@ -1,1 +1,37 @@
-Demonstrated the following in this colab :
+Demonstrated the following in this assignment :
+
+a) Demonstrate how convolution layers themselves work visually in colab
+
+b) implement depth wise pooling layer in keras and demonstrate its use
+
+c) 
+
+Part 2:
+
+Three colabs with  vision classifiers - data  - mnist, fashion mnist and cifar 10
+
+ 
+
+demonstrate for each colab :
+
+a) use simple neural network as well as lenet-5  - two architectures
+
+ 
+
+b) demonstrate pretrained model with transfer learning  (both efficient net and BiT)
+
+c) Demonstrate imge augmentation 
+
+d) demonstrate with state of art image models - mlp-mixer
+
+ 
+
+Part 3:
+
+a) Xray pnemonea classification with convnet : In this colab, I have built an X-ray image classification model to predict whether an X-ray scan shows presence of Pneumonia 
+Colab name : DL_Pneumonia_classification.ipynb
+URL : https://colab.research.google.com/drive/1JGtnsFyQ9f0etyTm7i-OexyNzQOjKzDk?usp=sharing
+ 
+b) 3d image classication of ctscan :  
+Colab name : 
+URL : 
