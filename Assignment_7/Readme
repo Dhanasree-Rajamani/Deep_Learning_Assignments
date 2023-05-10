@@ -4,7 +4,11 @@ a) Demonstrate how convolution layers themselves work visually in colab
 
 b) implement depth wise pooling layer in keras and demonstrate its use
 
-Colab to demonstrate how convolution layers themselves visually, and implement depth wise pooling layer in keras : 
+In this Colab, I have demonstrated how convolution layers themselves visually, and implemented depth wise pooling layer in keras.
+
+Colab name : DL_convolution_layers_depth_wise_pooling.ipynb
+
+Colab URL : https://colab.research.google.com/drive/1t16nF7mfE_zgUfi97HrV5GevVCeJU1qs?usp=sharing
 
 Part 2:
 
