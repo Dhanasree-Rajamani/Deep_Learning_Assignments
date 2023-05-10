@@ -4,7 +4,7 @@ a) Demonstrate how convolution layers themselves work visually in colab
 
 b) implement depth wise pooling layer in keras and demonstrate its use
 
-c) 
+
 
 Part 2:
 
@@ -18,7 +18,10 @@ a) use simple neural network as well as lenet-5  - two architectures
 
  
 
-b) demonstrate pretrained model with transfer learning  (both efficient net and BiT)
+b) demonstrate pretrained model with transfer learning  (both efficient net and BiT):
+
+Colab URL : https://colab.research.google.com/drive/1k_VNk59IoX6cKIZnDsPYOjeZP18LB8eV?usp=sharing
+Colab name : Image Classification BiT.ipynb
 
 c) Demonstrate imge augmentation 
 
