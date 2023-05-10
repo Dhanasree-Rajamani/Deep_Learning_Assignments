@@ -20,14 +20,16 @@ demonstrate for each colab :
 
 a) use simple neural network as well as lenet-5  - two architectures
 
- 
-
 b) demonstrate pretrained model with transfer learning  (both efficient net and BiT):
+
+c) Demonstrate imge augmentation 
 
 Colab URL : https://colab.research.google.com/drive/1k_VNk59IoX6cKIZnDsPYOjeZP18LB8eV?usp=sharing
 Colab name : Image Classification BiT.ipynb
 
-c) Demonstrate imge augmentation 
+Colab name : Efficient_net_and_Transfer_Learning.ipynb
+Colab URL : https://colab.research.google.com/drive/1usXwZuOS7VCBGD3ZzrWFjoy-_rTnvlmd?usp=sharing
+
 
 d) demonstrate with state of art image models - mlp-mixer
 
