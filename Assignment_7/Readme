@@ -28,7 +28,7 @@ d) demonstrate with state of art image models - mlp-mixer
 
 Part 3:
 
-a) Xray pnemonea classification with convnet : In this colab, I have built an X-ray image classification model to predict whether an X-ray scan shows presence of Pneumonia 
+a) Xray pnemonea classification with convnet : In this colab, I have built an X-ray image classification model to predict whether an X-ray scan shows presence of Pneumonia using the CNN model architecture
 Colab name : DL_Pneumonia_classification.ipynb
 URL : https://colab.research.google.com/drive/1JGtnsFyQ9f0etyTm7i-OexyNzQOjKzDk?usp=sharing
  
