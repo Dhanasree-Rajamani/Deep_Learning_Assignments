@@ -32,6 +32,6 @@ a) Xray pnemonea classification with convnet : In this colab, I have built an X-
 Colab name : DL_Pneumonia_classification.ipynb
 URL : https://colab.research.google.com/drive/1JGtnsFyQ9f0etyTm7i-OexyNzQOjKzDk?usp=sharing
  
-b) 3d image classication of ctscan :  
-Colab name : 
-URL : 
+b) 3d image classication of ctscan : In this colab, I have built a 3d convolutional neural network inorder to predict the presence of Pneumonia in CTScan images. These 3d convolutional neural networks can be used to prcoess RGB images, by taking 3d volume or sequence of 2d frame as input.
+Colab name : DL_3D_Image_classification_from_CT_Scan.ipynb
+URL : https://colab.research.google.com/drive/1KbBvLqm8fTCtmv5jhx3QIxYEjqdXRjmm?usp=sharing
