@@ -1,48 +1,56 @@
-Demonstrated the following in this assignment :
+Used TPU and demonstrated the following in this assignment :
+
+Part 1:
 
 a) Demonstrate how convolution layers themselves work visually in colab
-
 b) implement depth wise pooling layer in keras and demonstrate its use
 
-In this Colab, I have demonstrated how convolution layers themselves visually, and implemented depth wise pooling layer in keras.
-
+The above has been implemented in this Colab, where I have demonstrated how convolution layers themselves visually, and implemented depth wise pooling layer in keras.
 Colab name : DL_convolution_layers_depth_wise_pooling.ipynb
-
 Colab URL : https://colab.research.google.com/drive/1t16nF7mfE_zgUfi97HrV5GevVCeJU1qs?usp=sharing
 
 Part 2:
 
-Three colabs with  vision classifiers - data  - mnist, fashion mnist and cifar 10
-
- 
-
-demonstrate for each colab :
-
+Three colabs with  vision classifiers - data  - mnist, fashion mnist and cifar 10 demonstrate for each colab :
 a) use simple neural network as well as lenet-5  - two architectures
-
 b) demonstrate pretrained model with transfer learning  (both efficient net and BiT):
-
 c) Demonstrate imge augmentation 
+d) demonstrate with state of art image models - mlp-mixer
 
-Colab URL : https://colab.research.google.com/drive/1k_VNk59IoX6cKIZnDsPYOjeZP18LB8eV?usp=sharing
+I have kept number of epochs to minimum in training models because inbuilt colab TPU couldn't handle huge data and it took too much time, eventually erroring out.
+
+The above has been implemented in the colabs below:
+Build, train and evaluate bigtransfer BiT model for Image classification for the above datasets.
 Colab name : Image Classification BiT.ipynb
+Colab URL : https://colab.research.google.com/drive/1k_VNk59IoX6cKIZnDsPYOjeZP18LB8eV?usp=sharing
 
+Build efficient net model, perform data augmentation for the above datasets:
 Colab name : Efficient_net_and_Transfer_Learning.ipynb
 Colab URL : https://colab.research.google.com/drive/1usXwZuOS7VCBGD3ZzrWFjoy-_rTnvlmd?usp=sharing
 
+Building LeNet-5 model for the above datasets
+Colab name : Fashion_MNIST.ipynb
+Colab URL : https://colab.research.google.com/drive/1JEoHLIWd_aC1D35c7LdO4XF2WBRXyNsk?usp=sharing
 
-d) demonstrate with state of art image models - mlp-mixer
+Performed image classification using MLP Models, where I have configured the hyperparameters and build a classification model, used data augmentation. Build, train and evaluate MLP-mixer model, FNet Model and gMLP model.
+Colab name : MLP_Models.ipynb
+Colab URL : https://colab.research.google.com/drive/10-IrUt7FDdgrLgjtVmDdZ-Ol4mm9TcI-?usp=sharing
 
- Colab name : MLP Models - Image classification.ipynb
- 
- Colab URL : 
+Build, train and evaluate model for Simple Mnist data
+Colab name :  Simple_MNIST.ipynb
+Colab URL : https://colab.research.google.com/drive/1cl7iK6X9cTAOC5nImwCN8sKPx9wV3H8D?usp=sharing
 
 Part 3:
 
-a) Xray pnemonea classification with convnet : In this colab, I have built an X-ray image classification model to predict whether an X-ray scan shows presence of Pneumonia using the CNN model architecture
+a) Xray pnemonea classification with convnet
+b) 3d image classication of ctscan
+
+The above has been implemented in the colabs below : 
+
+In this colab, I have built an X-ray image classification model to predict whether an X-ray scan shows presence of Pneumonia using the CNN model architecture
 Colab name : DL_Pneumonia_classification.ipynb
 URL : https://colab.research.google.com/drive/1JGtnsFyQ9f0etyTm7i-OexyNzQOjKzDk?usp=sharing
- 
-b) 3d image classication of ctscan : In this colab, I have built a 3d convolutional neural network inorder to predict the presence of Pneumonia in CTScan images. These 3d convolutional neural networks can be used to prcoess RGB images, by taking 3d volume or sequence of 2d frame as input.
+
+In this colab, I have built a 3d convolutional neural network inorder to predict the presence of Pneumonia in CTScan images. These 3d convolutional neural networks can be used to prcoess RGB images, by taking 3d volume or sequence of 2d frame as input.
 Colab name : DL_3D_Image_classification_from_CT_Scan.ipynb
 URL : https://colab.research.google.com/drive/1KbBvLqm8fTCtmv5jhx3QIxYEjqdXRjmm?usp=sharing
