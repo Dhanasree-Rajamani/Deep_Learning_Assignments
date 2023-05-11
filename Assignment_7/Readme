@@ -36,7 +36,7 @@ Performed image classification using MLP Models, where I have configured the hyp
 Colab name : MLP_Models.ipynb
 Colab URL : https://colab.research.google.com/drive/10-IrUt7FDdgrLgjtVmDdZ-Ol4mm9TcI-?usp=sharing
 
-Build, train and evaluate model for Simple Mnist data
+Build, train and evaluate Simple model for Mnist data
 Colab name :  Simple_MNIST.ipynb
 Colab URL : https://colab.research.google.com/drive/1cl7iK6X9cTAOC5nImwCN8sKPx9wV3H8D?usp=sharing
 
